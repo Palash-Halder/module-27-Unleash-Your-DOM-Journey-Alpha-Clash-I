@@ -1,3 +1,5 @@
+27-1: Project Overview and Setup
+
 Clone the resources:
 https://github.com/ProgrammingHero1/alphabet-clash-pro-resources.git
 
@@ -18,4 +20,14 @@ Style folder
 
 make 3 section in body:
     home, playground, score
+
+Push codes in github
+
+
+27-2 Background Design and Home Section Setup
+    import Anton font
+    add poppins font in body
+
+    Important pause:
+        09:42, 10:40, 12:29 to end
 
