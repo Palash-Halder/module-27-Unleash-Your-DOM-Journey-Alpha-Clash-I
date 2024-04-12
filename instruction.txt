@@ -23,11 +23,23 @@ make 3 section in body:
 
 Push codes in github
 
-
+================================================================
 27-2 Background Design and Home Section Setup
     import Anton font
     add poppins font in body
 
     Important pause:
         09:42, 10:40, 12:29 to end
+================================================================
+27-3 PlayGround Setup And Keyboard Design
 
+    how to hide displa: hidden
+    give "hidden" class in home section
+
+    copy a full keyboard from daisyui and paste in keyboard part
+    google- hexadecimal opacity
+    copy horizonatal artboard largest size from daisyui and paste in screen part
+Important pause:
+    5:05    5:25    6:41    14:11   
+
+================================================================
