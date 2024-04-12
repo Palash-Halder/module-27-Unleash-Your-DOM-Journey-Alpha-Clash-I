@@ -69,3 +69,21 @@ Important pause:
     Important Pause:
         6:20    9:43
 ================================================================
+27-6 Change Home Screen To Playground By Click
+alpha-clash:
+comment out the code and call the play() function:
+    function play(){
+    hideElementById('home-screen');
+    showElementById('play-ground');
+}
+
+utility.js
+    function hideElementById(elementId){
+    const element = document.getElementById(elementId);
+    element.classList.add('hidden');
+}
+
+function showElementById(elementId){
+    const element = document.getElementById(elementId);
+    element.classList.remove('hidden');
+}
