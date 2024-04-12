@@ -56,3 +56,16 @@ Important pause:
     
     Important Pause:
         7:51    13:34 to end 
+
+================================================================
+27-5 Added Score Page And Explained Screen Toggle Concept
+    To hide playground section use hidden class
+    unhide home screen
+    create script file and create a function name "play"
+    clg('Play button connected')
+    add a onclick listener in "play now " button
+    now check whether button is connected or not
+
+    Important Pause:
+        6:20    9:43
+================================================================
