@@ -43,3 +43,16 @@ Important pause:
     5:05    5:25    6:41    14:11   
 
 ================================================================
+27-4 Design PlayGround Screen, Life And Score
+    copy rounded button from daisyui
+    delete the code inside the button
+    export svg button img from figma file
+
+    Screen part:
+        set instruction paragraph
+        set letter paragraph
+    Button part:
+        flex the button, justify-center w-1/3
+    
+    Important Pause:
+        7:51    13:34 to end 
