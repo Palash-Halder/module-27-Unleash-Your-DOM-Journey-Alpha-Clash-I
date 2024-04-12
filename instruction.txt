@@ -1,0 +1,21 @@
+Clone the resources:
+https://github.com/ProgrammingHero1/alphabet-clash-pro-resources.git
+
+Project setup:
+
+open a repository
+daisyui link
+tailwinf.config.js
+copy imagers folder from resources
+
+ Font: 
+    Phantom
+    poppins
+    copy font links from google
+
+Style folder
+    import fonts
+
+make 3 section in body:
+    home, playground, score
+
