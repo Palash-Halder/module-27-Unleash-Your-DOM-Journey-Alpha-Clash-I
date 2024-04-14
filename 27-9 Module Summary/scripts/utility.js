@@ -9,10 +9,18 @@ function showElementById(elementId){
 }
 
  // Set background color
- function setBackgroundColorById(elementId){
+function setBackgroundColorById(elementId){
     const element = document.getElementById(elementId);
     element.classList.add('bg-orange-400');
-    }
+}
+
+/*
+// Remove Backgrounbd Color
+function removeBackgroundColorById(elementId){
+    const element = document.getElementById(elementId);
+    element.classList.remove('bg-orange-400');
+}
+*/
 
 function getRandomAlphabet(){
     // Get or create an alphabet array

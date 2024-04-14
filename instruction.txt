@@ -145,9 +145,8 @@ utility.js:
     const element = document.getElementById(elementId);
     element.classList.add('bg-orange-400');
     }
-
-
-
-
+================================================================
+27-9 Module Summary 
+    how to remove background color
 
 ================================================================
