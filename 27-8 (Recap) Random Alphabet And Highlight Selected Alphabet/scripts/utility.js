@@ -8,6 +8,12 @@ function showElementById(elementId){
     element.classList.remove('hidden');
 }
 
+ // Set background color
+ function setBackgroundColorById(elementId){
+    const element = document.getElementById(elementId);
+    element.classList.add('bg-orange-400');
+    }
+
 function getRandomAlphabet(){
     // Get or create an alphabet array
     const alphabetStribng = 'abcdefghijklmnopqrstuvwxyz';

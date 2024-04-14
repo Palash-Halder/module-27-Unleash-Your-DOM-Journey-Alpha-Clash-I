@@ -8,6 +8,8 @@ function showElementById(elementId){
     element.classList.remove('hidden');
 }
 
+
+
 // Set background color
 function setBackgroundColorById(elementId){
     const element = document.getElementById(elementId);

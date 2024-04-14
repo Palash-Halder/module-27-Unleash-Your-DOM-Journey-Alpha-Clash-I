@@ -29,7 +29,7 @@ function continueGame(){
     const currentAlphabetElement = document.getElementById('current-alphabet');
     currentAlphabetElement.innerText = alphabet;
 
-    setBackgroundColorById(alphabet); 
+    
 }
  
 function play(){
