@@ -126,3 +126,25 @@ function play(){
 
 Important Pause:
     10:12   11:50 to end
+
+================================================================
+
+27-8 (Recap) Random Alphabet And Highlight Selected Alphabet
+ Give an id to Y- paragraph, and uppercase class
+ 
+alpha-clash.js:                                        QAAAAA   QAAAA                                                                                                               z
+     // set randomly generated alphabet to the screen (show it)
+    const currentAlphabetElement = document.getElementById('current-alphabet');
+    currentAlphabetElement.innerText = alphabet;
+
+    Give id to all letters in keyboard
+
+utility.js:
+    // Set background color
+    function setBackgroundColorById(elementId){
+    const element = document.getElementById(elementId);
+    element.classList.add('bg-orange-400');
+
+
+
+================================================================
